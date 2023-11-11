@@ -1,0 +1,30 @@
+[2023-11-07 13:00:12] INFO: Device [Name: Samsung-Galaxy-A50, IP: 192.168.0.10] connected to Wi-Fi. Signal strength: -60 dBm. DHCP lease granted.
+[2023-11-07 13:15:08] INFO: Device [Name: ASUS-X550V, IP: 192.168.0.11] connected to Wi-Fi. Signal strength: -50 dBm. DHCP lease granted.
+[2023-11-07 13:20:45] INFO: Device [Name: Aylin-iPhone12, IP: 192.168.0.12] connected to Wi-Fi. Signal strength: -55 dBm. DHCP lease granted.
+[2023-11-07 13:35:30] INFO: Device [Name: LG-SmartTV, IP: 192.168.0.13] connected to Wi-Fi. Signal strength: -48 dBm. DHCP lease granted.
+[2023-11-07 13:45:22] INFO: Device [Name: Office-PC, IP: 192.168.0.14] connected to Wi-Fi. Signal strength: -42 dBm. DHCP lease granted.
+[2023-11-07 13:46:10] INFO: Device [Name: Ece-Tablet, IP: 192.168.0.15] connected to Wi-Fi. Signal strength: -58 dBm. DHCP lease granted.
+[2023-11-07 14:00:14] INFO: Firmware update started. Updating to version 2.1.3.
+[2023-11-07 14:05:56] INFO: Firmware update completed successfully. Updated to version 2.1.3.
+[2023-11-07 14:10:03] INFO: Device [Name: Mehmet-Laptop, IP: 192.168.0.16] connected to Wi-Fi. Signal strength: -45 dBm. DHCP lease granted.
+[2023-11-07 14:30:47] INFO: Device [Name: HP-Printer, IP: 192.168.0.17] connected to Wi-Fi. Signal strength: -70 dBm. DHCP lease granted.
+[2023-11-07 14:45:19] INFO: Scheduled network maintenance initiated.
+[2023-11-07 14:50:00] INFO: Scheduled network maintenance completed. Network status normal.
+[2023-11-07 15:15:42] WARNING: Weak signal detected for Device [Name: Samsung-Galaxy-A50]. Signal strength: -82 dBm.
+[2023-11-07 15:16:23] INFO: Device [Name: Samsung-Galaxy-A50] disconnected from Wi-Fi. DHCP lease released.
+[2023-11-07 15:17:01] INFO: Device [Name: Samsung-Galaxy-A50] reconnected to Wi-Fi. Signal strength: -79 dBm. DHCP lease renewed.
+[2023-11-07 15:20:56] WARNING: Weak signal detected for Device [Name: Lenovo-Yoga]. Signal strength: -85 dBm.
+[2023-11-07 15:21:23] INFO: Device [Name: Lenovo-Yoga] disconnected from Wi-Fi. DHCP lease released.
+[2023-11-07 15:22:01] INFO: Device [Name: Lenovo-Yoga] reconnected to Wi-Fi. Signal strength: -80 dBm. DHCP lease renewed.
+[2023-11-07 16:00:10] INFO: Device [Name: Elif-iPad, IP: 192.168.0.18] connected to Wi-Fi. Signal strength: -58 dBm. DHCP lease granted.
+[2023-11-07 16:25:37] INFO: Device [Name: Kitchen-Speaker, IP: 192.168.0.19] connected to Wi-Fi. Signal strength: -60 dBm. DHCP lease granted.
+[2023-11-07 16:30:22] INFO: Device [Name: Deniz-PC, IP: 192.168.0.20] connected to Wi-Fi. Signal strength: -52 dBm. DHCP lease granted.
+[2023-11-07 17:45:15] INFO: Daily network performance diagnostics initiated.
+[2023-11-07 17:55:30] INFO: Daily network performance diagnostics completed successfully. No issues found.
+[2023-11-07 18:05:57] WARNING: Weak signal detected for Device [Name: Samsung-Galaxy-A50]. Signal strength: -83 dBm.
+[2023-11-07 18:06:20] INFO: Device [Name: Samsung-Galaxy-A50] disconnected from Wi-Fi. DHCP lease released.
+[2023-11-07 18:07:05] INFO: Device [Name: Samsung-Galaxy-A50] reconnected to Wi-Fi. Signal strength: -81 dBm. DHCP lease renewed.
+[2023-11-07 18:50:12] WARNING: Weak signal detected for Device [Name: Lenovo-Yoga]. Signal strength: -84 dBm.
+[2023-11-07 18:51:27] INFO: Device [Name: Lenovo-Yoga] disconnected from Wi-Fi. DHCP lease released.
+[2023-11-07 18:52:03] INFO: Device [Name: Lenovo-Yoga] reconnected to Wi-Fi. Signal strength: -78 dBm. DHCP lease renewed.
+[2023-11-07 19:00:03] INFO: Device [Name: Guest-Device-01, IP: 192.168.0.21] connected to Wi-Fi. Signal strength: -68 dBm. DHCP lease granted.

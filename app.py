@@ -32,9 +32,6 @@ messagesList=[
 
 
 
-
-
-
 ####################################################
 def ask_gpt4():
     # Send the message to the API
@@ -139,11 +136,10 @@ def executeFlow(scenario, mode):
         messagesList.append(systemMessage)
         
         readLogs()
+        print(ask_gpt4())
         
         
-        
-        
-        
+     
     elif mode == 3:
         # Internal Communication
         # You will provide summary of the diagnosed problem and the actions taken by previous Customer Care agents.
@@ -152,26 +148,6 @@ def executeFlow(scenario, mode):
     else:
         print("Invalid mode number. Please try again.")
         quit()
-    
-    
-    
-    if mode == 1:
-        print(ask_gpt4())
-        while True:
-            # Get user input
-            user_input = input("You: ")
-            if user_input.lower() in ["exit", "quit", "goodbye"]:
-                print("AI: Goodbye!")
-                break
-            newUserMessage = {
-                "role": "user",
-                "content": user_input
-            }
-            messagesList.append(newUserMessage)
-            print(ask_gpt4())
-    elif mode == 2:
-        print(ask_gpt4())
-    
 
 def select_mode():
     print("Please select a mode:")

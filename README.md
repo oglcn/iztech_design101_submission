@@ -1,10 +1,32 @@
-﻿# IZTECH Design101 Project - NetAnaliz AI
+# IZTECH Design101 Project - NetAnaliz AI
 
-We are designing an application that is aimed to assist with User's internet connection issues. When the user calls ISP's Customer Service for help, the application will analyze all the context, logs and other relevant information and will provide a summary of the situation, provide a guess about the User's issue, and suggest potential solutions to the Customer Service Agent for it to be explained to the user. It will also assist the Customer Service Agent in opening a ticket for the Technical Department to fix the problem.
+## Project Overview
+NetAnaliz AI is an intelligent application designed to assist users experiencing internet connectivity issues. When users contact their Internet Service Provider's (ISP) Customer Service, NetAnaliz AI performs an immediate and comprehensive analysis of various data sources—including connection contexts, logs, and other relevant technical information—to quickly identify the issue and provide actionable solutions.
 
-The application is analyzing the given info using an LLM, GPT-4 Turbo in this case. This approach allows the application to do complex reasoning of complicated events in a flexible way, from many data sources and come up with more human commentary, something that were previously not possible with traditional programming methods. The application analyzes many different sources of data in seconds, which is something a customer service rep wouldn't be able to do in a short time and without extensive training, especially for technical data sources such as system logs. This application is designed to save time (and thus money) for all parties; customer, customer service rep and technical department. 
+## How It Works
+When the user calls Customer Service:
 
-We will provide 4 different scenarios for the application to analyze and provide a solution for. The scenarios are as follows:
+1. **Data Collection and Analysis**
+    - Collects context information, system logs, ISP maintenance records, and relevant external data.
+    - Rapidly analyzes the gathered data using a state-of-the-art Large Language Model (LLM)—specifically, GPT-4 Turbo.
+
+2. **Issue Identification**
+    - Summarizes the user's current connectivity situation clearly and concisely.
+    - Generates a reasoned prediction regarding the nature of the issue based on the data analysis.
+
+3. **Solution Recommendation**
+    - Provides practical and understandable solutions to the Customer Service Agent, which can be clearly communicated to the user.
+    - Assists the agent in opening a detailed and accurate support ticket, forwarding the issue efficiently to the Technical Department if further assistance is required.
+
+## Advantages of Using NetAnaliz AI
+- **Rapid, Comprehensive Analysis**: Performs detailed analysis in seconds, significantly faster than human agents could.
+- **Complex Reasoning**: Leverages GPT-4 Turbo's advanced reasoning capabilities, enabling sophisticated interpretation of complicated technical data.
+- **Improved Accuracy**: Cross-analyzes multiple data sources simultaneously, reducing human error.
+- **Enhanced Efficiency and Cost Savings**: Streamlines customer service and technical support workflows, saving valuable time and reducing operational costs for customers, service representatives, and the technical team.
+
+---
+
+The following scenarios demonstrate NetAnaliz AI's capabilities in action:﻿
 
 ## Case 1: Weak Wifi Connection (Home Internet)
 - **Router Logs show that some devices repeatedly disconnect and reconnect to the Wifi.**
